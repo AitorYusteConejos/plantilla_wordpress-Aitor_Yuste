@@ -7,7 +7,7 @@ Version: 1.0
 /* Header */
 
 header {
-    background-color: #222;
+    background-color: #0611e0;
     padding: 30px;
 }
 
@@ -22,4 +22,7 @@ header h1 a {
 
 header p {
     color: #ccc;
+}
+li{
+    color: #e5e6ea;
 }
