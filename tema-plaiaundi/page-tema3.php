@@ -1,28 +1,13 @@
 <?php
 /*
-Template Name: Ejercicios JavaScript
+Template Name: Ejercicios JavaScript tema 3
 */
 
 get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
-    '¿Qué tipo tengo realmente?',
-    'Number(), parseInt() y parseFloat()',
-    'Calculadora resistente a entradas incorrectas',
-    '¿const o let?',
-    'Igualdad estricta y coerción',
-    'Descuentos y condiciones límite',
-    'Truthy y falsy',
-    'Clasificación de una nota',
-    'Menú con switch',
-    'Múltiplos y divisibilidad',
-    'Acumulador con while',
-    '|| frente a ??',
-    'Operador ternario: cuándo ayuda y cuándo no',
-    'Diagnóstico de código',
-    'Coalescencia nula, encadenamiento opcional y operador condicional',
-    'suma array',
-    'Funcion flecha',
+    '¿Prueba de ejercicio Tema 3',
+
 );
 ?>
 

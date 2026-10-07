@@ -1,6 +1,6 @@
 /*
  * Tema 2 · Fundamentos y particularidades de JavaScript
- * Ejercicio 15 · Funcion flecha
+ * Ejercicio 17 · Funcion flecha
  */
 
 let num = prompt("Introduce un numero: ")
