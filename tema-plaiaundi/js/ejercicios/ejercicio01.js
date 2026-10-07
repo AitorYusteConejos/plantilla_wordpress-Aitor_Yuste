@@ -8,18 +8,17 @@ let edad = prompt("Introduce tu edad:");
 let altura = prompt("Introduce tu altura en metros:");
 
 console.log("Tipos antes de convertir:");
-console.log(typeof nombre); // string
-console.log(typeof edad);   // string
-console.log(typeof altura); // string
+console.log(typeof nombre); 
+console.log(typeof edad);   
+console.log(typeof altura); 
 
-// Convertimos edad y altura a números
 edad = Number(edad);
 altura = Number(altura);
 
 console.log("Tipos después de convertir:");
-console.log(typeof nombre); // string
-console.log(typeof edad);   // number
-console.log(typeof altura); // number
+console.log(typeof nombre);
+console.log(typeof edad);  
+console.log(typeof altura);
 
 console.log("Datos convertidos:");
 console.log("Nombre: " + nombre);
