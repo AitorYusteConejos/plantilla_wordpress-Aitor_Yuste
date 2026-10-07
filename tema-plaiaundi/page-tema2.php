@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Ejercicios JavaScript
+Template Name: Ejercicios JavaScript tema 2
 */
 
 get_header();
