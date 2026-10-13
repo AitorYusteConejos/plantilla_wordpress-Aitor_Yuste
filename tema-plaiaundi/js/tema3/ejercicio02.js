@@ -1,6 +1,6 @@
 /*
- * Tema 2 · Fundamentos y particularidades de JavaScript
- * Ejercicio 16 · suma array
+ * Tema 3 · Fundamentos y particularidades de JavaScript
+ * Ejercicio 1 · suma array
  */
 
 let notas = [5, 8, 3, 10, 6];
